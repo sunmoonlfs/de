@@ -1,0 +1,1517 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.header{
+   
+    
+}
+.nav{
+    
+    height: 24px;
+    
+    background: #efefef;
+}
+.nave{
+    overflow: hidden;
+    width: 1000px;
+    margin: 0px auto;
+    border-left: 1px solid #ddd;
+}
+a.kkk{
+    background: white;
+}
+.nave a:hover{
+    background: white;
+    cursor: pointer;
+}
+.nave a{
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #606e69;
+    line-height: 24px;
+    border-right: 1px solid #ddd;
+    padding-left: 30px;
+    padding-right: 34px;
+    cursor: pointer;
+}
+.box{
+    line-height: 46px;
+    padding: 20px;
+    overflow: hidden;
+    margin: 0px auto;
+    width: 1000px;
+
+}
+.box img{
+    float: left;
+    margin-right: 50px;
+    height: 46px;
+}
+.box input{
+    font-size: 12px;
+    float: left;
+    padding:  10px;
+    border: 1px solid #f1f1f1;
+    color: #999999;
+    border-radius: 6px 0 0 6px;
+    margin-top: 6px;
+}
+.box button{
+    background: #f60;
+    color: white;
+    width: 65px;
+    height: 2.7em;
+    border: 1px solid #f60;
+}
+.box ul{
+    float: right;
+    margin: -45px 0px;
+}
+.box li{
+    float: left;
+    line-height: 45px;
+    margin: 5px;
+    display: inline;
+    color: #999999;
+}
+.box li a:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.box .my{
+    background: url(https://static.17k.com/www/skin/17k_header/icon_nav.png) no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+.box .looked{
+    background: url(https://static.17k.com/www/skin/17k_header/icon_nav.png) no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background-position: 0 -52px;
+}
+.box .bookup{
+    background: url(https://static.17k.com/www/skin/17k_header/icon_nav.png) no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background-position: 0 -105px;
+}
+.box .message{
+    background: url(https://static.17k.com/www/skin/17k_header/icon_nav.png) no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background-position: 0 -158px;
+}
+.box .wbook{
+    background: url(https://static.17k.com/www/skin/17k_header/icon_nav.png) no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background-position: 0 -211px;
+}
+.box .regg{
+    background: url(https://static.17k.com/www/skin/17k_header/icon_nav.png) no-repeat;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background-position: 0 -264px;
+}
+.box a{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+}
+.wrap{
+    background: #f60;
+    
+}
+.wrap div{
+    width: 1000px;
+    margin: 0px auto;
+    height: 54px;
+    overflow: hidden;
+    padding: 0 18px;
+}
+.wrap a{
+    float: left;
+    line-height: 54px;
+    font-size: 14px;
+    color: white;
+    padding: 0 18px;
+    text-decoration: none;
+    
+}
+.wrap .pen{
+    background: url(https://static.17k.com/skin/img/icon/pan.png) no-repeat left center;
+    padding: 0 18px;
+    margin-left: 30px;
+}
+.lun{
+    width: 1000px;
+    margin: 15px auto;
+}
+.lun img{
+    height: 90px;
+}
+.main{
+    width: 1000px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.mleft{
+    float: left;
+    width: 725px;
+    overflow: hidden;
+}
+.htxt{
+    overflow: hidden;
+    line-height: 50px;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 20px;
+    color: #ddd;
+    font-size: 12px;
+}
+.htxt h2{
+    float: left;
+    font-size: 26px;
+    border-bottom: 2px solid #f60;
+    font-weight: 400;
+    padding-right: 5px;
+    color: black;
+}
+.htxt .first{
+    color: #f60;
+    margin-left: 20px;
+}
+.htxt a{
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+.htxt a:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.jojo {
+    width:450px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    float: left;
+}
+.jojo img{
+    width:450px;
+    height: 250px;
+}
+.jojo ul li{
+    float: left;
+    position: relative;
+}
+.jojo ul{
+    width:6000px;
+}
+ol {
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+    text-align: right;
+    background: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+}
+ol li{
+    float: left;
+    margin:3px 3px;
+    width:25px;
+    height: 6px;
+    background:#fff;
+    cursor: pointer;
+    
+}
+ol li.current{
+    background-color: #f60;;
+}
+.jojo span{
+    width: 450px;
+    line-height: 36px;
+    position:absolute;
+    left: 1px;
+    bottom: 5px;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    padding-left: 10px;
+    font-size: 12px;
+}
+.bott{
+    width: 450px;
+    margin-top: 5px;
+    padding-top: 5px;
+    height: 207px;
+    float: left;
+}
+#bot{
+    line-height: 43px;
+    overflow: hidden;
+}
+#bot li{
+    float: left;
+    line-height: 46px;
+    border-bottom: 1px solid #dfdfdf;
+    width: 24.5%;
+    text-align: center;
+    border-left: 1px solid transparent;
+    border-top: 3px solid  transparent;
+    border-right: 1px solid transparent;
+}
+#bot a{
+    text-decoration: none;
+    color: #666;
+   
+}
+/* section {
+    overflow: hidden;
+}
+section p{
+    float: left;
+    width:200px;
+    line-height: 80px;
+    text-align: center;
+    cursor: pointer;
+    display: none;
+}
+li.rent{
+    border-top: 3px solid #f60;
+    border-left: 1px solid #e0e0e0;
+    color:#f60;
+}
+section.rent{
+    display: block;
+} */
+.bott section div{
+    overflow: hidden;
+}
+.bott section div ul{
+    float: left;
+    width: 150px;
+    padding: 10px 0 0;
+}
+.bott section div li{
+    line-height: 18px;
+    padding: 5px 0;
+   
+}
+.bott section div a{
+    text-decoration: none;
+    color: #666;
+    font-size: 12px;
+}
+.bott section div .one{
+    width: 18px;
+    height: 18px;
+    background: #f60;
+    color: white;
+    text-align: center;
+    margin: 0 10px 0 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 12px;
+}
+.bott section div .two{
+    width: 18px;
+    height: 18px;
+    background: #999999;
+    color: white;
+    text-align: center;
+    margin: 0 10px 0 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 12px;
+}
+.bott section div{
+    cursor: pointer;
+    display: none;
+}
+#bot li.rent{
+    border-top: 3px solid #f60;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    border-bottom: 1px solid transparent;
+}
+#bot li.rent a{
+    color:#f60;
+}
+.bott div.rent{
+    display: block;
+}
+#bot a:hover{
+    text-decoration: underline;
+}
+#boot a:hover{
+    color:#f60;
+    text-decoration: underline;
+}
+.joli{
+    width: 250px;
+    float: right;
+}
+.joli h3{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0 5px;
+}
+.joli p{
+    margin: 0  0 10px;
+    font-size: 12px;
+    color: #999999;
+    padding: 5px 5px 15px;
+    line-height: 20px;
+    border-bottom: 1px dotted #ddd;
+}
+.joli h3.hoter{
+    text-indent: 35px;
+    background: url(https://static.17k.com/www/skin/all/hot.png) no-repeat 5px center;
+}
+.joli h3:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.joli p:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.mright{
+    width: 244px;
+    float: right;
+}
+.title{
+    height: 45px;
+    line-height: 45px;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 20px;
+}
+.title h2{
+    border-left: 4px solid #f60;
+    margin-top: 8px;
+    text-indent: 0.5em;
+    line-height: 30px;
+    font-weight: 400;
+}
+.jack{
+    padding: 0 0 0 15px;
+}
+.jack li{
+    border-bottom: 1px dotted #ddd;
+    line-height: 18px;
+    padding: 7px 0;
+    text-indent: 5px;
+    color: #999999;
+    list-style: disc;
+}
+.jack li a{
+    text-decoration: none;
+    color: #666;
+    font-size: 12px;
+}
+.jack .first{
+    color: #f60;
+}
+.jack a:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.jack li:hover{
+    background: #e0e0e0;
+}
+.photo{
+    width: 250px;
+    height: 180px;
+    margin-top: 15px;
+}
+.naim{
+    width: 1000px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.nleft{
+    float: left;
+    width: 450px;
+    overflow: hidden;
+}
+.new{
+    line-height: 50px;
+    border-bottom: 1px solid #dfdfdf;
+    overflow: hidden;
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: #ddd;
+}
+.new h2{
+    float: left;
+    font-size: 26px;
+    border-bottom: 2px solid #f60;
+    font-weight: 400;
+    padding-right: 5px;
+    color: black;
+}
+.new .first{
+    color: #f60;
+    margin-left: 20px;
+}
+.new a{
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+.new a:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.now{
+    float: left;
+    overflow: hidden;
+}
+.naw{
+    background: url(https://static.17k.com/www/skin/all/bg2.png) no-repeat right bottom;
+    border: 1px solid #dfdfdf;
+    padding: 23px;
+    font-size: 14px;
+    margin-right: 20px;
+    width: 182px;
+    padding-bottom: 42px;
+    float: left;
+}
+.naw img{
+    height: 270px;
+    width: 181px;
+}
+.naw h3{
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    
+}
+.naw h3 a{
+    text-decoration: none;
+    color: #606e69;
+    font-weight: 400;
+}
+.naw p.cen{
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+    color: #999999;
+}
+.naw p a{
+    text-decoration: none;
+    color: #666;
+}
+.naw a:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.r{
+    float: left;
+    width: 108px;
+}
+.nbw{
+    width: 200px;
+    height: 112px;
+    float: left;
+    overflow: hidden;
+    border-bottom: 1px dotted #ddd;
+    padding: 15px 0;
+}
+.nbw li img{
+    float: left;
+    width: 75px;
+    height: 110px;
+    margin-right: 10px;
+}
+.nbw .r h3{
+    line-height: 11px;
+}
+.nbw h3 a{
+    text-decoration: none;
+    color: #606e69;
+    font-weight: 400;
+    font-size: 12px;
+}
+.nbw p.can{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+}
+.nbw p a{
+    text-decoration: none;
+    color: #666;
+    font-size: 12px;
+}
+.nbw a:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.ncw{
+    width: 200px;
+    height: 127px;
+    float: left;
+    overflow: hidden;
+    border-bottom: 1px dotted #ddd;
+    padding: 15px 0;
+}
+.ncw li img{
+    float: left;
+    width: 75px;
+    height: 110px;
+    margin-right: 10px;
+}
+.ncw .r h3{
+    line-height: 15px;
+}
+.ncw h3 a{
+    text-decoration: none;
+    color: #606e69;
+    font-weight: 400;
+    font-size: 12px;
+}
+.ncw p.ca{
+    line-height: 15px;
+}
+.ncw p.cbn{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+}
+.ncw p a{
+    text-decoration: none;
+    color: #666;
+    font-size: 12px;
+}
+.ncw a:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.ndw{
+    width: 200px;
+    float: left;
+    overflow: hidden;
+    padding: 15px 0;
+}
+.ndw li img{
+    float: left;
+    width: 75px;
+    height: 110px;
+    margin-right: 10px;
+}
+.ndw .r h3{
+    line-height: 15px;
+}
+.ndw h3 a{
+    text-decoration: none;
+    color: #606e69;
+    font-weight: 400;
+    font-size: 12px;
+}
+.ndw p.cdn{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+}
+.ndw p.cd{
+    line-height: 15px;
+}
+.ndw p a{
+    text-decoration: none;
+    color: #666;
+    font-size: 12px;
+}
+.ndw a:hover{
+    color:#f60;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.nright{
+    float: left;
+    width: 250px;
+    margin-left: 25px;
+}
+.titl{
+    border: 1px solid #999999;
+    overflow: hidden;
+}
+.titl a.dd{
+    background: #999999;
+    color: white;
+}
+.titl a{
+    display: inline-block;
+    float: left;
+    text-align: center;
+    width: 124px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #666;
+    text-decoration: none;
+}
+.tit li{
+    line-height: 36px;
+    overflow: hidden;
+}
+.ti li{
+    border-bottom: 1px dotted #ddd;
+}
+.tit li a{
+    font-size: 12px;
+    text-decoration: none;
+}
+.tit li a.flag{
+    float: left;
+    color: #999999;
+}
+.tit li a.flg{
+    float: left;
+    margin-left: 5px;
+    width: 140px;
+    color: #333;
+}
+.tit li span{
+    float: right;
+    color: #999999;
+    font-size: 12px;
+}
+.btm{
+    overflow: hidden;
+}
+.mj{
+    width: 172px;
+    float: left;
+    overflow: hidden;
+}
+.md{
+    width: 43px;
+    float: right;
+    overflow: hidden;
+}
+.tit li a.ten{
+    border: 1px solid #ddd;
+    color: #666;
+    margin: 15px 5px 0 0;
+    float: left;
+    line-height: 20px;
+    width: 50px;
+    text-align: center;
+}
+.tit li a.twt{
+    border: 1px solid #ddd;
+    color: #666;
+    margin: 15px 5px 0 0;
+    float: left;
+    line-height: 20px;
+    width: 50px;
+    text-align: center;
+}
+.tit li a.tht{
+    border: 1px solid #ddd;
+    color: #666;
+    margin: 15px 5px 0 0;
+    float: left;
+    line-height: 20px;
+    width: 50px;
+    text-align: center;
+}
+.btm li a.tmt{
+    width: 43px;
+    height: 20px;
+    float: right;
+    margin-top: 15px;
+    background: url(https://static.17k.com/www/skin/all/more.png);
+}
+.ti{
+    padding-top: 20px;
+}
+.ti ul{
+    display: none;
+}
+.ti ul.ness{
+    display: block;
+}
+.tit li a#ness{
+    border: 1px solid #f60;
+    color: #f60;
+}
+.tit li .flag:hover{
+    text-decoration: underline;
+}
+.tit li .flg:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.btm li #ness:hover{
+    text-decoration: underline;
+}
+.object{
+    padding-top: 20px;
+}
+.object li{
+    line-height: 36px;
+    overflow: hidden;
+    border-bottom: 1px dotted #ddd;
+}
+.object li a{
+    font-size: 12px;
+    text-decoration: none;
+}
+.object li a.flag{
+    float: left;
+    color: #999999;
+}
+.object li a.flg{
+    float: left;
+    margin-left: 5px;
+    width: 140px;
+    color: #333;
+}
+.object li a.fg{
+    float: right;
+    width: 48px;
+    color: #999999;
+}
+.object li .flag:hover{
+    text-decoration: underline;
+}
+.object li .flg:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.object li .fg:hover{
+    text-decoration: underline;
+}
+.nright .tit{
+    display: none;
+}
+.nright .object{
+    display: none;
+}
+.nright #clik{
+    display: block;
+}
+.nright .dd{
+    background: #999999;
+    color: white;
+}
+.titl a:hover{
+    text-decoration: underline;
+}
+.hright{
+    float: left;
+    width: 250px;
+    margin-left: 25px;
+}
+.titls{
+    border: 1px solid #999999;
+    overflow: hidden;
+}
+.titls a.dd{
+    background: #999999;
+    color: white;
+}
+.titls a{
+    display: inline-block;
+    float: left;
+    text-align: center;
+    width: 124px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #666;
+    text-decoration: none;
+}
+.tis li{
+    border-bottom: 1px dotted #ddd;
+}
+.btms{
+    overflow: hidden;
+}
+.btms li a.tmt{
+    width: 43px;
+    height: 20px;
+    float: right;
+    margin-top: 15px;
+    background: url(https://static.17k.com/www/skin/all/more.png);
+}
+.btms li a.tmt{
+    width: 43px;
+    height: 20px;
+    float: right;
+    margin-top: 15px;
+    background: url(https://static.17k.com/www/skin/all/more.png);
+}
+.tis{
+    padding-top: 20px;
+}
+.tis ul{
+    display: none;
+}
+.tis ul.ness{
+    display: block;
+}
+.btms li #ness:hover{
+    text-decoration: underline;
+}
+.hright .tit{
+    display: none;
+}
+.hright .object{
+    display: none;
+}
+.hright #clik{
+    display: block;
+}
+.hright .dd{
+    background: #999999;
+    color: white;
+}
+.mian{
+    width: 1000px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.mian .boss{
+    width: 180px;
+    float: left;
+}
+.tj{
+    line-height: 50px;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 20px;
+}
+.tj h2{
+    border-bottom: 3px solid #f60;
+    height: 50px;
+    width: 104px;
+    font-size: 26px;
+    padding-right: 5px;
+    font-weight: 400;
+}
+.nice{
+    font-size: 12px;
+    line-height: 24px;
+    color: #ddd;
+    margin-bottom: 10px;
+}
+.nice a{
+    color: #333;
+    padding: 0 5px;
+    font-size: 12px;
+    text-decoration: none;
+}
+.nice a:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.big li{
+    line-height: 18px;
+    padding: 5px 0;
+    overflow: hidden;
+}
+.big li a{
+    font-size: 12px;
+    text-decoration: none;
+}
+.big li .bgm:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.big li .bg:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.big li a.bgm{
+    float: left;
+    color: #333;
+}
+.big li a.bg{
+    float: left;
+    margin-left: 5px;
+    width: 118px;
+    color: #333;
+}
+.big ul{
+    display: none;
+}
+.big .hot{
+    display: block;
+}
+.nice .hot{
+    color: #f60;
+}
+.mian .man{
+    width: 250px;
+    margin-left: 23px;
+    float: left;
+}
+.dj{
+    line-height: 50px;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 20px;
+}
+.dj h2{
+    border-bottom: 3px solid #f60;
+    height: 50px;
+    width: 182px;
+    font-size: 26px;
+    padding-right: 5px;
+    font-weight: 400;
+}
+.mian .girl{
+    width: 250px;
+    margin-left: 23px;
+    float: left;
+}
+.mian .people{
+    width: 250px;
+    margin-left: 23px;
+    float: left;
+}
+.do{
+   font-size: 12px;
+   line-height: 24px;
+   margin-bottom: 10px;
+   color: #ddd;
+}
+.do a{
+    font-size: 13px;
+    text-decoration: none;
+    color: #333;
+    padding: 0px 5px;
+}
+.do .first{
+    color: #f60;
+}
+.do a:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.have li{
+    line-height: 18px;
+    padding: 5px 0;
+    overflow: hidden;
+}
+.have li span.hav{
+    float: right;
+    font-size: 12px;
+    color: #999999;
+}
+.have li span.one{
+    float: left;
+    color: white;
+    background: #f60;
+    width: 18px;
+    height: 18px;
+    margin: 0 10px 0 0;
+    text-align: center;
+    font-size: 12px;
+    vertical-align: middle;
+}
+.have li span.two{
+    float: left;
+    color: white;
+    background: #999999;
+    width: 18px;
+    height: 18px;
+    margin: 0 10px 0 0;
+    text-align: center;
+    font-size: 12px;
+    vertical-align: middle;
+}
+.have li a{
+    font-size: 12px;
+    text-decoration: none;
+}
+.have li .bgm:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.have li .bg:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.have li a.bgm{
+    float: left;
+    color: #333;
+}
+.have li a.bg{
+    float: left;
+    margin-left: 5px;
+    color: #333;
+}
+.have li a.skin{
+    width: 43px;
+    height: 20px;
+    float: right;
+    background: url(https://static.17k.com/www/skin/all/more.png);
+}
+.have li a.under{
+    overflow: hidden;
+    background: #f7f7f7;
+    border: 1px solid #efefef;
+    display: block;
+    padding: 10px;
+    margin: 20px 0;
+    color: #666;
+    clear: both;
+    word-break: break-all;
+    font-size: 13px;
+}
+.have li .under:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.have li a.under img{
+    float: left;
+    width: 76px;
+    height: 110px;
+    margin-right: 5px;
+}
+.miao{
+    width: 1000px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.jpg{
+    line-height: 50px;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.jpg h2{
+    border-bottom: 3px solid #f60;
+    height: 50px;
+    padding-right: 5px;
+    font-weight: 400;
+    font-size: 26px;
+    float: left;
+}
+.gif{
+    float: left;
+    height: 100%;
+    padding: 0 10px;
+}
+.gift{
+    line-height: 50px;
+    font-size: 12px;
+    color: #ddd;
+}
+.gift .first{
+    color: #f60;
+}
+.gift a{
+    padding: 0 5px;
+    font-size: 12px;
+    color: #333;
+    text-decoration: none;
+}
+.gift a:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.jpeg{
+    width: 165px;
+    border: 1px solid #dfdfdf;
+    padding: 15px 15px 55px;
+    text-align: center;
+    background: url(https://static.17k.com/www/skin/all/bg2.png) no-repeat right bottom;
+    float: left;
+}
+.jpeg img{
+    width: 165px;
+    height: 237px;
+}
+.jpeg h3{
+    margin: 15px;
+}
+.jpeg h3 a{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #666;
+}
+.jpeg h3 a:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.jpeg span{
+    display: inline-block;
+    line-height: 24px;
+    padding: 0 15px;
+    border-radius: 10px;
+    font-size: 12px;
+    background: #ebebeb;
+}
+.jpeg span a{
+    text-decoration: none;
+    color: #666;
+}
+.jpeg span a:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.dox{
+    margin-left: 20px;
+    width: 247px;
+    float: left;
+}
+.done h3{
+    padding: 0 5px;
+}
+.done h3 a{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #333;
+}
+.done p{
+    width: 228px;
+    padding: 5px 5px 0;
+}
+.done p a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #666;
+}
+.done h3 a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.done p a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.dtwo{
+    overflow: hidden;
+}
+.dtwo .later{
+    float: left;
+    position: relative;
+    margin: 60px 0 0;
+    padding: 15px 0 10px;
+    width: 240px;
+    border: 1px solid #dfdfdf;
+    background: url(https://static.17k.com/www/skin/all/bg3.png) no-repeat right bottom;
+}
+.dtwo .later .late{
+    position: absolute;
+    top: -13px;
+    left: 10px;
+    background: #fff;
+    padding: 0 5px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.dtwo .later .lat{
+    margin-left: 10px;
+    float: left;
+    width: 110px;
+    line-height: 24px;
+}
+.dtwo .later .lat a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #666;
+}
+.dtwo .later .lat a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.dos{
+    float: left;
+    margin-left: 20px;
+    width: 247px;
+}
+.dos h3{
+    padding: 0 5px;
+}
+.dos h3 a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: #333;
+}
+.dos p{
+    margin: 0 0 25px;
+    padding: 5px 5px 25px;
+    line-height: 20px;
+}
+.dos p a{
+    font-size: 12px;
+    color: #999999;
+    text-decoration: none;
+}
+.dos .week{
+    border-bottom: 1px dotted #ddd;
+}
+.dos h3 a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.dos p a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.dot{
+    margin-top: -9px;
+    margin-left: 20px;
+    width: 247px;
+    float: left;
+}
+.dot ul li{
+    overflow: hidden;
+    padding: 14px 0;
+}
+.dot ul .top{
+    border-top: 1px dotted #ddd;
+}
+.dot ul li img{
+    float: left;
+    width: 75px;
+    height: 110px;
+    margin-right: 10px;
+}
+.dot ul li h3 a{
+    font-size: 12px;
+    font-weight: 400;
+    color: #333;
+    text-decoration: none;
+}
+.dot ul li p{
+    font-size: 12px;
+    color: #999999;
+    margin: 3px 0 0;
+}
+.dot ul li p a{
+    font-size: 12px;
+    color: #666;
+    text-decoration: none;
+}
+.dot ul li h3 a:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.dot ul li p a:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.zoom{
+    width: 1000px;
+    margin: 15px auto;
+    text-align: center;
+}
+.niao{
+    width: 1000px;
+    margin: 15px auto;
+    overflow: hidden;
+}
+.nal{
+    width: 725px;
+    float: left;
+}
+.nall{
+    float: left;
+    width: 250px;
+}
+.nall h3{
+    padding: 0 5px;
+}
+.nall h3 a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: #333;
+}
+.nall p{
+    margin: 0 0 25px;
+    padding: 5px 5px 25px;
+    line-height: 20px;
+}
+.nall p a{
+    font-size: 12px;
+    color: #666;
+    text-decoration: none;
+}
+.nall .week{
+    border-bottom: 1px dotted #ddd;
+}
+.nall h3 a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.nall p a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.cale{
+    overflow: hidden;
+}
+.lolo {
+    width:450px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    float: left;
+    margin-left: 25px;
+}
+.lolo img{
+    width:450px;
+    height: 250px;
+    
+}
+.lolo ul li{
+    float: left;
+    position: relative;
+}
+.lolo ul{
+    width:5000px;
+}
+dl {
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+    text-align: right;
+    background: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+}
+dl li{
+    float: left;
+    margin:3px 3px;
+    width:25px;
+    height: 6px;
+    background:#fff;
+    cursor: pointer;
+    
+}
+dl li.ent{
+    background-color: #f60;;
+}
+.lolo span{
+    width: 450px;
+    line-height: 36px;
+    position:absolute;
+    left: 1px;
+    bottom: 5px;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    padding-left: 10px;
+    font-size: 12px;
+}
+.calt{
+    margin: 10px 0 0;
+    overflow: hidden;
+    width: 450px;
+    height: 189px;
+    padding-left: 25px;
+}
+.calt li{
+    float: left;
+    width: 210px;
+    margin-top: 10px;
+    border-top: 1px dotted #ddd;
+    padding: 14px 10px 14px 0;
+    overflow: hidden;
+}
+.calt li img{
+    width: 100px;
+    height: 145px;
+    margin-right: 10px;
+    float: left;
+}
+.calt li h3{
+    line-height: 14px;
+}
+.calt li h3 a{
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #333;
+}
+.calt li h3 a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.calt li p{
+    font-size: 12px;
+    color: #999999;
+}
+.calt li p a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #666;
+}
+.calt li p a:hover{
+    text-decoration: underline;
+    color: #f60;
+}
+.nar{
+    width: 245px;
+    float: right;
+}
+.narr{
+    height: 45px;
+    border-bottom: 1px solid #dfdfdf;
+    margin-bottom: 20px;
+}
+.narr h2{
+    line-height: 30px;
+    border-left: 4px solid #f60;
+    text-indent: 0.5em;
+    margin-top: 8px;
+}
+.narr h2 span{
+    color: #dfdfdf;
+    font-size: 26px;
+    padding-left: 10px;
+    padding-right: 2px;
+}
+.narr h2 a{
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: 400;
+    color: #666;
+}
+.toto #end{
+    color: #f60;
+}
+.sect ul{
+    display: none;
+}
+.sect #end{
+    display: block;
+}
+
+
+
+
+
+
+

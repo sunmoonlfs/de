@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none; 
+}
+body{
+    background-color: #333;
+}
+.header{
+    background: #f60;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    width: 500px;
+    margin: 0px auto;
+    line-height: 54px;
+    margin-bottom: 18px;
+}
+.main{
+    width: 320px;
+    margin: 0px auto;
+}
+.numb{
+    padding: 10px;
+}
+.num{
+    font-size: 14px;
+    color: black;
+    font-weight: 700;
+}
+.numb input{
+    padding: 0 0 0 40px;
+    margin: 5px 0 0;
+    width: 260px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 30px;
+    background: url(https://static.17k.com/passport/skin/icon/input.png) no-repeat left top;
+}
+.pas{
+    padding: 10px;
+}
+.pass{
+    font-size: 14px;
+    color: black;
+    font-weight: 700;
+}
+.pas input{
+    padding: 0 0 0 40px;
+    margin: 5px 0 0;
+    width: 260px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 30px;
+    background: url(https://static.17k.com/passport/skin/icon/input.png) no-repeat left bottom;
+}
+.but{
+    padding: 10px;
+    margin: 10px 0 0;
+}
+.but input{
+    color: white;
+    background: #f60;
+    height: 40px;
+    width: 150px;
+    margin-right: 28px;
+}
+.but a{
+    font-size: 14px;
+    color: #6495ed;
+    margin-top: 5px;
+    text-decoration: none;
+}
+.but a:hover{
+    text-decoration: underline;
+}
+.check{
+    padding: 10px;
+}
+.check span{
+    font-size: 13px;
+}
+.check a{
+    text-decoration: none;
+    color: #333;
+}
+.check a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #f60;
+}
+.other{
+    padding: 10px;
+}
+.other span{
+    font-size: 13px;
+    color: #333;
+}
+.other img{
+    cursor: pointer;
+    display: inline-block;
+    width: 30px;
+    line-height: 30px;
+    margin: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+.lost{
+    text-align: right;
+    line-height: 2px;
+    padding-right: 20px;
+    padding: 10px;
+}
+.lost a{
+    text-decoration: none;
+    color: #666;
+    font-size: 12px;
+}
+.lost a:hover{
+    color: #f60;
+    text-decoration: underline;
+}
+.section{
+    width: 500px;
+    height: 457px;
+    margin: 0px auto;
+    background: white;
+    border-radius: 1%;
+}
+
+
